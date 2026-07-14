@@ -34,7 +34,7 @@ Currently focused on:
 | [💰 Cost Management Blueprint](https://github.com/sfc-gh-rbachala/cost-management-blueprint) | Analyze and govern credit consumption across warehouses + serverless | Snowflake · SQL · Jinja |
 | [⚡ Databricks + Spark ML](https://github.com/richiebachala/Databricks-and-Spark) | Feature engineering, Random Forest, MLFlow, streaming | PySpark · MLFlow · Python |
 
-> ⚠️ Projects currently hosted at `sfc-gh-rbachala` will move here — links will be updated post-migration.
+> ⚠️ Projects currently hosted at `sfc-gh-rbachala` 
 
 ---
 
