@@ -1,10 +1,12 @@
 <h1 align="center">Hey, I'm Richie 👋</h1>
 
 <p align="center">
-  <em>Solver of problems and maker of things — cloud · data engineering · AI</em>
+  <em>Author of <a href="https://github.com/richiebachala/ai-based-data-engineering">AI-Based Data Engineering</a> (Packt) — cloud · data engineering · AI</em>
 </p>
 
 <p align="center">
+  <a href="https://github.com/richiebachala/ai-based-data-engineering"><img src="https://img.shields.io/badge/📖_Book-AI--Based_Data_Engineering-1F4E79?style=flat" alt="Book"/></a>
+  <a href="https://richiebachala.com"><img src="https://img.shields.io/badge/Website-richiebachala.com-555555?style=flat&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://linkedin.com/in/richiebachala"><img src="https://img.shields.io/badge/LinkedIn-richiebachala-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@richiebachala"><img src="https://img.shields.io/badge/Medium-@richiebachala-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://twitter.com/richiebachala"><img src="https://img.shields.io/badge/X-@richiebachala-000000?style=flat&logo=x&logoColor=white" alt="X / Twitter"/></a>
@@ -25,16 +27,27 @@ Currently focused on:
 
 ---
 
+## 📘 New Book — *AI-Based Data Engineering* (Packt)
+
+**Data engineers aren't replaced by AI — they build the platform reliable agents run on.** The book follows one platform (OpsPulse) from an AI-readiness score of **4/18 to 18/18** across 14 chapters: context engineering, retrieval & GraphRAG, MCP tools, self-healing SQL/dbt pipelines, evals, and governance.
+
+- 📂 **Companion code:** [richiebachala/ai-based-data-engineering](https://github.com/richiebachala/ai-based-data-engineering)
+- 🧭 **Free AI-Readiness self-assessment:** [richiebachala.com](https://richiebachala.com/#readiness)
+- 🏢 **Publisher:** Packt · 2026
+
+---
+
 ## Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| [📘 AI-Based Data Engineering](https://github.com/richiebachala/ai-based-data-engineering) | Companion code for the book — OpsPulse dataset generator + per-chapter runnable examples | Snowflake · dbt · Python · LLM |
 | [🤖 Build AI Agents with CoCo](https://github.com/sfc-gh-rbachala/building-ai-agents-with-coco-workshop) | Workshop: build an AI agent in 60 min with Snowflake Cortex | Snowflake · Cortex · Python |
 | [🔒 RBAC Hardening Blueprint](https://github.com/sfc-gh-rbachala/rbac-hardening-blueprint) | Audit, harden, and monitor role-based access controls at scale | Snowflake · SQL · Jinja |
 | [💰 Cost Management Blueprint](https://github.com/sfc-gh-rbachala/cost-management-blueprint) | Analyze and govern credit consumption across warehouses + serverless | Snowflake · SQL · Jinja |
 | [⚡ Databricks + Spark ML](https://github.com/richiebachala/Databricks-and-Spark) | Feature engineering, Random Forest, MLFlow, streaming | PySpark · MLFlow · Python |
 
-> ⚠️ Projects currently hosted at `sfc-gh-rbachala` 
+> ⚠️ Some projects currently hosted at `sfc-gh-rbachala` 
 
 ---
 
